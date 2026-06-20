@@ -92,8 +92,8 @@ FastAPI Backend (:8000)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AgenticResumeScreening.git
-cd AgenticResumeScreening
+git clone https://github.com/Sudharshika/agentic-resume-screening.git
+cd agentic-resume-screening
 ```
 
 ### 2. Install dependencies
@@ -135,7 +135,7 @@ click **Process Resume**.
 ## 📁 Project Structure
 
 ```
-AgenticResumeScreening/
+agentic-resume-screening/
 ├── app/
 │   ├── agents/
 │   │   ├── candidate_evaluation_agent.py  # Evaluates resume vs JD
@@ -156,7 +156,6 @@ AgenticResumeScreening/
 ├── .gitignore
 └── README.md
 ```
-
 ---
 
 ## 💡 How It Works
